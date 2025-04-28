@@ -1,4 +1,4 @@
-# About Gil's applications
+# About Gil's applications!
 
 1. Digimon website
 2. Calculator
